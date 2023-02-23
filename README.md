@@ -7,7 +7,7 @@ Murilo Simões Modesto
 
 Processo de criação de uma calculadora simples na linguagem java. 
 
-legenda:
+legenda imagem Kanban:
 S - Samuel
 AF - Andrews
 MM - Murilo
