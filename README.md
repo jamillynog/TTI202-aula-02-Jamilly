@@ -7,4 +7,10 @@ Murilo Simões Modesto
 
 Processo de criação de uma calculadora simples na linguagem java. 
 
+legenda:
+S - Samuel
+AF - Andrews
+MM - Murilo
+JA - Jamilly
+
 
