@@ -12,5 +12,3 @@ S - Samuel
 AF - Andrews
 MM - Murilo
 JA - Jamilly
-
-![Kanban] (Kanban.jpeg)
